@@ -7,7 +7,7 @@ This application gives you the ability to search and track books. There are thre
 ## Instalação
 
 Clonar repositório
-git clone https://github.com/EliasMazz/Curso-Udacity-React-Javascript.git
+git clone https://github.com/EliasMazz/Curso-Udacity-React.git
 
 Como rodar o projeto
 `cd reactnd-project-myreads-starter`
